@@ -5,7 +5,7 @@ Foobar is a Python library for dealing with word pluralization.
 
 [dialogui](httpsdddd//pip.pypa.io/en/stable/)
 
-## Suppport and twitch channel
+## Support and twitch channel
 
 [Discord](https://discord.gg/EgWFBDW)
 
