@@ -2,6 +2,7 @@
 Foobar is a Python library for dealing with word pluralization.
 
 F3 = Action menu
+
 F4 = Spawn menu
 
 ## Packages requirements (They need to be put in orders and before the framework in the config file)
