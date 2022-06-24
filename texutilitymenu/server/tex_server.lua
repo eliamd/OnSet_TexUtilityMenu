@@ -52,7 +52,7 @@ AddRemoteEvent("OnKeyPressRP",function(player)
    SetVehicleDamage(voiture, 6, 0)
    SetVehicleDamage(voiture, 7, 0)
    SetVehicleDamage(voiture, 8, 0)   
-   AddPlayerChat(player, "Vehicule réparé et débloqué !")  
+   AddPlayerChat(player, "Vehicule réparé et débloqué !!")  
    end
 end)
 
