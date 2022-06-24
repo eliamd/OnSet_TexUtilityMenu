@@ -38,7 +38,7 @@ function f3f4menu(key)
 	if key == 'F4' then
 		local Dialog = ImportPackage("dialogui")
 
-		local f4 = Dialog.create("MENU SPAWN", nil, "Voitures", "Armes", "Skin","Fermer")
+		local f4 = Dialog.create("MENU SPAWN", nil, "Voitures", "Armess", "Skin","Fermer")
 		
 		Dialog.show(f4)
 		
