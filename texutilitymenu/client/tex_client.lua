@@ -69,7 +69,7 @@ function f3f4menu(key)
 			  end)		  end
 		  if button == 3 then
 			local f4s = Dialog.create("Menu Skin", nil, "Confirmer")
-			Dialog.addTextInput(f4s, 1, "Model du skin:")
+			Dialog.addTextInput(f4s, 1, "Model du skinn:")
 			Dialog.show(f4s)
 			AddEvent("OnDialogSubmit", function(dialog, button, skin, lastName, gender)
 				if dialog ~= f4s then
