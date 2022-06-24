@@ -9,14 +9,6 @@ F4 = Spawn menu
 
 [dialogui](httpsdddd//pip.pypa.io/en/stable/)
 
-## Support and twitch channel
-
-[Discord](https://discord.gg/EgWFBDW)
-
-[Twitch](https://www.twitch.tv/tex_fr)
-
-
-
 
 ![F4](https://i.imgur.com/aRVRnMH.png)
 
