@@ -38,7 +38,7 @@ function f3f4menu(key)
 	if key == 'F4' then
 		local Dialog = ImportPackage("dialogui")
 
-		local f4 = Dialog.create("MENU SPAWN", nil, "Voitures", "Armes", "Skin","Fermer")
+		local f4 = Dialog.create("MENU SPAWN", nil, "Voitures", "Armess", "Skin","Fermer")
 		
 		Dialog.show(f4)
 		
@@ -47,7 +47,7 @@ function f3f4menu(key)
 			return
 		  end
 		  if button == 1 then
-			local f4v = Dialog.create("Menu Voitures", nil, "Confirmer")
+			local f4v = Dialog.create("Menu Voitures", nil, "Confirmerrrr")
 			Dialog.addTextInput(f4v, 1, "Model de la voiture:")
 			Dialog.show(f4v)
 			AddEvent("OnDialogSubmit", function(dialog, button, model, lastName, gender)
