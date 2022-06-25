@@ -47,7 +47,7 @@ function f3f4menu(key)
 			return
 		  end
 		  if button == 1 then
-			local f4v = Dialog.create("Menu Voitures", nil, "Confirmerrrr")
+			local f4v = Dialog.create("Menu Voitures", nil, "Confirmer")
 			Dialog.addTextInput(f4v, 1, "Model de la voiture:")
 			Dialog.show(f4v)
 			AddEvent("OnDialogSubmit", function(dialog, button, model, lastName, gender)
